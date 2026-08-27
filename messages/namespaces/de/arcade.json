@@ -6,16 +6,16 @@
     "heroTagline": "Der Sommer gehört dir",
     "heroNote": "Arcade ist am 1. September zu Ende gegangen – aber du kannst immer noch dem <slack>Hack Club Slack</slack> beitreten!",
     "prizesHeroAlt": "Arcade-Preise",
-    "howToPlay": "Wie man spielt",
+    "howToPlay": "So funktioniert's",
     "step1Title": "Arbeite an Projekten",
     "step1Text": "Hacke etwas Cooles. Zum Beispiel: deine eigene Platine, deine eigene Website oder eine App.",
     "step2Title": "Sammle deine Stunden",
     "step2Text": "Tritt dem <slack>Hack Club Slack</slack> bei und nutze /hack in #arcade, um deine Stunden zu loggen. Für jede Stunde bekommst du ein Ticket.",
     "step3Title": "Tausch Tickets gegen Preise",
     "step3Text": "Tausch deine Tickets gegen Preise fürs nächste Projekt ein – etwa Arduino-Kits, Zeichentabletts und mehr.",
-    "repeatLine": "Bau Sachen. Hol dir Sachen. Wiederhol.",
+    "repeatLine": "Bau Sachen. Hol dir Sachen. Und von vorn.",
     "stickerLine": "Hol dir <stickers>kostenlose Sticker</stickers> und code mit anderen Jugendlichen!",
-    "buildingPrefix": "Du könntest gerade ein:e",
+    "buildingPrefix": "Du könntest gerade das hier bauen:",
     "seeMoreProjects": "Weitere Projekte ansehen",
     "oneHourAtATime": "Eine Stunde nach der anderen,",
     "whatWillYouMake": "Was baust <you>du</you> diesen Sommer?",
@@ -52,7 +52,7 @@
       "droneSwarm": "Drohnenschwarm-Choreografie"
     },
     "projectCards": {
-      "elijah": "Endlich habe ich meinen persönlichen KI-Klon verschickt und es hat großen Spaß gemacht zu sehen, was andere Leute damit gemacht haben.",
+      "elijah": "Endlich habe ich meinen persönlichen KI-Klon veröffentlicht und es hat großen Spaß gemacht zu sehen, was andere damit gemacht haben.",
       "cupcakes": "Blot-Roboter zusammenbauen.",
       "konstantinos": "Eine Drohne, die dem größten Objekt einer gewählten Farbe folgen kann."
     },
@@ -95,7 +95,7 @@
       },
       "flipper": {
         "name": "Flipper",
-        "smallName": "Null"
+        "smallName": "Zero"
       },
       "macbook": {
         "name": "MacBook",
@@ -107,7 +107,7 @@
       },
       "logitech": {
         "name": "Logitech",
-        "smallName": "MX Mechanisch"
+        "smallName": "MX Mechanical"
       },
       "quest3": {
         "name": "Quest 3"
@@ -128,9 +128,9 @@
       "hoursA": "Echte Menschen prüfen die Einreichungen. Es kann ein paar Tage dauern, bis deine Stunden erscheinen.",
       "teamQ": "Zählt ein Teamprojekt?",
       "teamA": "Ja, aber dein eigener Beitrag muss klar dokumentiert sein.",
-      "schoolQ": "Wie wäre es mit einer Schularbeit oder einem Job?",
+      "schoolQ": "Was ist mit Schulaufgaben oder einem Job?",
       "schoolA": "Wenn du etwas für die Schule oder Arbeit baust, zählt es nicht für Arcade.",
-      "scrapQ": "Was gilt als Schrott?",
+      "scrapQ": "Was zählt als Scrap?",
       "scrapA": "Code braucht einen Commit. Teile Links zu Projekten wie Sprig, Blot oder gehosteten 3D-Modellen."
     }
   }
